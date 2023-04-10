@@ -1,0 +1,4 @@
+- Create venv: python -m venv venv
+- activate env:
+  - Mac: source venv/bin/activate
+  - Windows: venv/Scripts/activate
