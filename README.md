@@ -1,4 +1,5 @@
 - Create venv: python -m venv venv
+- Install requirements: pip install -r requirements.txt
 - activate env:
   - Mac: source venv/bin/activate
   - Windows: venv/Scripts/activate
